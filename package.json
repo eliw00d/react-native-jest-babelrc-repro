@@ -1,0 +1,7 @@
+{
+  "name": "react-native-jest-babelrc-repro",
+  "private": true,
+  "workspaces": [
+    "mobile"
+  ]
+}
